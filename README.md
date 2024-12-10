@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mrautonomous
+- 👋 Hi, I’m Ihtesham Ahmad.
 - 👀 I’m interested in MERN Stack Web Development.
-- 🌱 I’m currently learning Javascript React.
+- 🌱 I’m currently learning Next.js.
 - 💞️ I’m looking to collaborate on MERN Stack.
 - 📫 Contacts links are in my bio.
 
